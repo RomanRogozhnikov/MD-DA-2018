@@ -1,7 +1,5 @@
 ---
 title: "HW1"
-author: "Anatoliy Vetoshkin"
-date: '8 сентября 2018 г '
 output: html_document
 ---
 
